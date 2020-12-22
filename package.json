@@ -18,6 +18,7 @@
   "homepage": "https://github.com/busybox11/spotify-nowplayimg#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "spotify-web-api-node": "^5.0.0"
   }
 }
