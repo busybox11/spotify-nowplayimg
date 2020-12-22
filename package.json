@@ -1,0 +1,19 @@
+{
+  "name": "nowplayimg",
+  "version": "1.0.0",
+  "description": "Generates an image for your now playing Spotify track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busybox11/spotify-nowplayimg.git"
+  },
+  "author": "busybox11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busybox11/spotify-nowplayimg/issues"
+  },
+  "homepage": "https://github.com/busybox11/spotify-nowplayimg#readme"
+}
